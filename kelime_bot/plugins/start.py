@@ -14,16 +14,16 @@ keyboard = InlineKeyboardMarkup([
         InlineKeyboardButton("➕𝐌ə𝐧𝐢 𝐪𝐫𝐮𝐩𝐚 ə𝐥𝐚𝐯ə 𝐞𝐭➕", url=f"http://t.me/UlviSozBot?startgroup=new")
     ],
     [
-        InlineKeyboardButton(" 𝐎𝐰𝐧𝐞𝐫🇦🇿 ", url="t.me/BrendUlvi"),
-        InlineKeyboardButton("𝐏𝐫𝐨𝐣𝐞𝐜𝐭", url="t.me/UlviProject"),
+        InlineKeyboardButton(" 𝐎𝐰𝐧𝐞𝐫🇦🇿 ", url="t.me/Naz_Vanessa"),
+        InlineKeyboardButton("𝐏𝐫𝐨𝐣𝐞𝐜𝐭", url="t.me/lovelesslifee"),
     ]
 ])
 
 
 START = """
-**🔮 Salam, Ülvi Söz Bota xoş geldin bu bot ilə söz tapmaq oyunu oynaya bilərsiniz..**
+**🔮 Salam, Vanessa Söz Bota xoş geldin bu bot ilə söz tapmaq oyunu oynaya bilərsiniz..\n KANALA ABUNE OLUN @lovelesslifee**
 
-➤ Məlumat üçün 👉 /help üzərinə klikləyin.  Əmrlər asan və sadədir.
+➤ Məlumat üçün 👉 /help üzərinə klikləyin.  Əmrlər asan və sadədir.\n N❤R
 """
 
 HELP = """
