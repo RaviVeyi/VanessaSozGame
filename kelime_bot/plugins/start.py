@@ -21,7 +21,7 @@ keyboard = InlineKeyboardMarkup([
 
 
 START = """
-**Salam {USER_NAME} , 𝙲𝚁𝙰𝚉𝚈 𝚂𝙾𝚉 𝙾𝚈𝚄𝙽𝚄 xoş geldin bu bot ilə söz tapmaq oyunu oynaya bilərsiniz..**
+**Salam {USER_NAME} , 𝚂Ö𝚉Ü 𝚃𝙰𝙿 𝙾𝚈𝚄𝙽-a xoş geldin bu bot ilə söz tapmaq oyunu oynaya bilərsiniz..**
 
 ➤ Məlumat üçün 👉 /help üzərinə klikləyin.  Əmrlər asan və sadədir.
 """
