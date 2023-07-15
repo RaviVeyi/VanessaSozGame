@@ -21,7 +21,8 @@ keyboard = InlineKeyboardMarkup([
 
 
 START = """
-**Salam {USER_NAME} , 𝚂Ö𝚉Ü 𝚃𝙰𝙿 𝙾𝚈𝚄𝙽-a xoş geldin bu bot ilə söz tapmaq oyunu oynaya bilərsiniz..**
+**ꜱᴀʟᴀᴍ 👋 , 𝚂Ö𝚉Ü 𝚃𝙰𝙿 𝙾𝚈𝚄𝙽-ᴀ xᴏŞ ɢᴇʟᴅɪɴ ʙᴜ ʙᴏᴛ ɪʟƏ ꜱÖᴢ ᴛᴀᴘᴍᴀQ ᴏʏᴜɴᴜ ᴏʏɴᴀʏᴀ ʙɪʟƏʀꜱɪɴɪᴢ..
+..**
 
 ➤ Məlumat üçün 👉 /help üzərinə klikləyin.  Əmrlər asan və sadədir.
 """
@@ -36,16 +37,7 @@ HELP = """
 /dayan - Oyunu dayandırar.
 """
 
-# Komutlar. 
-@Client.on_message(filters.command("start"))
-async def start(bot, message):
-  await message.reply_photo("https://telegra.ph/file/9facf7f4d3990d3c93637.jpg",caption=START,reply_markup=keyboard)
-
-@Client.on_message(filters.command("help"))
-async def help(bot, message):
-  await message.reply_photo("https://telegra.ph/file/9facf7f4d3990d3c93637.jpg",caption=HELP) 
-
-# Oyunu başlat. 
+ # Oyunu başlat. 
 @Client.on_message(filters.command("oyna")) 
 async def kelimeoyun(c:Client, m:Message):
     global oyun
