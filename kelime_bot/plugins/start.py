@@ -40,8 +40,7 @@ HELP = """
  #  Komutlar
 @Client.on_message(filters.command("start"))
 async def start(bot, message):
-  await message.reply_photo("https://telegra.ph/file/9facf7f4d3990d3c93637.jpg",caption=START,reply_markup=keyboard)
-
+  
 @Client.on_message(filters.command("help"))
 async def help(bot, message):
   await message.reply_photo("https://telegra.ph/file/9facf7f4d3990d3c93637.jpg",caption=HELP)
