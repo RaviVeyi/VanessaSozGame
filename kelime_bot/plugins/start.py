@@ -11,17 +11,18 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 keyboard = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("➕𝐌ə𝐧𝐢 𝐪𝐫𝐮𝐩𝐚 ə𝐥𝐚𝐯ə 𝐞𝐭➕", url=f"http://t.me/S0zuTapBot?startgroup=new")
+        InlineKeyboardButton("➕𝐌ə𝐧𝐢 𝐪𝐫𝐮𝐩𝐚 ə𝐥𝐚𝐯ə 𝐞𝐭➕", url=f"http://t.me/RoseGame_bot
+?startgroup=new")
     ],
     [
-        InlineKeyboardButton("👨‍💻 𝐒𝐚𝐡𝐢𝐛 ", url="t.me/byNYPD"),
-        InlineKeyboardButton("📢 𝐊𝐚𝐧𝐚𝐥", url="t.me/NYPDProje"),
+        InlineKeyboardButton("👨‍💻 𝐒𝐚𝐡𝐢𝐛 ", url="t.me/TeleqramProje"),
+        InlineKeyboardButton("📢 𝐊𝐚𝐧𝐚𝐥", url="t.me/TeleqramSupport"),
     ]
 ])
 
 
 START = """
-**ꜱᴀʟᴀᴍ 👋 , 𝚂Ö𝚉Ü 𝚃𝙰𝙿 𝙾𝚈𝚄𝙽-ᴀ xᴏŞ ɢᴇʟᴅɪɴ ʙᴜ ʙᴏᴛ ɪʟƏ ꜱÖᴢ ᴛᴀᴘᴍᴀQ ᴏʏᴜɴᴜ ᴏʏɴᴀʏᴀ ʙɪʟƏʀꜱɪɴɪᴢ..
+**ꜱᴀʟᴀᴍ 👋 , 𝐑𝐨𝐬𝐞 𝐆𝐚𝐦𝐞 -ᴀ xᴏŞ ɢᴇʟᴅɪɴ ʙᴜ ʙᴏᴛ ɪʟƏ ꜱÖᴢ ᴛᴀᴘᴍᴀQ ᴏʏᴜɴᴜ ᴏʏɴᴀʏᴀ ʙɪʟƏʀꜱɪɴɪᴢ..
 ..**
 
 ➤ Məlumat üçün 👉 /help üzərinə klikləyin.  Əmrlər asan və sadədir.
