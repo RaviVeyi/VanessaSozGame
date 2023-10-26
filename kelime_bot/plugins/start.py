@@ -15,8 +15,8 @@ keyboard = InlineKeyboardMarkup([
 ?startgroup=new")
     ],
     [
-        InlineKeyboardButton("👨‍💻 𝐒𝐚𝐡𝐢𝐛 ", url="t.me/TeleqramProje"),
-        InlineKeyboardButton("📢 𝐊𝐚𝐧𝐚𝐥", url="t.me/TeleqramSupport"),
+        InlineKeyboardButton("👨‍💻 𝐒𝐚𝐡𝐢𝐛 ", url="t.me/Vysoff"),
+        InlineKeyboardButton("📢 𝐊𝐚𝐧𝐚𝐥", url="t.me/TeleqramProje"),
     ]
 ])
 
